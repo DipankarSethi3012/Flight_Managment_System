@@ -65,7 +65,7 @@ MySQL: Download MySQL
 
 **Steps**
 Clone the repository:
-git clone https://github.com/yourusername/flight-management-system.git
+git clone (https://github.com/DipankarSethi3012/Flight_Managment_System.git)
 Import the project into your preferred IDE (e.g., IntelliJ, Eclipse).
 
 **Set up the MySQL database**:
